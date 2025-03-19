@@ -1,1 +1,8 @@
-.cabeçalho{background-color: #e60c0c}, color:#ff0000; dspla: flex; justify-con
+.cabeçalho{background-color: #e60c0c;
+color:#ff0000;
+ display: flex;
+justify-content: center;
+}
+.imagem-logo{
+    width: 20%;
+}
